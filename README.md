@@ -31,3 +31,10 @@ yarn add date-fns
 ~~~sh
 yarn add json-server -D
 ~~~
+
+## Install axios
+
+~~~sh
+yarn add axios
+~~~
+
