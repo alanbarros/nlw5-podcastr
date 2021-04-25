@@ -38,3 +38,9 @@ yarn add json-server -D
 yarn add axios
 ~~~
 
+## Install rc-slider (Player Slider)
+
+~~~sh
+yarn add rc-slider
+~~~
+
