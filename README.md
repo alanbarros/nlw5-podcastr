@@ -44,3 +44,9 @@ yarn add axios
 yarn add rc-slider
 ~~~
 
+Sugestões de melhoria
+
+- Adicionar responsividade
+- Criar um PWA (next-pwa)
+- Criar um tema dark
+- Talvez criar uma versão com electron para uso em desktop
